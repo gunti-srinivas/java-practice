@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdderSubtractorLock/AdderSubtractorLock.iml" filepath="$PROJECT_DIR$/AdderSubtractorLock/AdderSubtractorLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdderSubtractorSync/AdderSubtractorSync.iml" filepath="$PROJECT_DIR$/AdderSubtractorSync/AdderSubtractorSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdderSubtractorSyncMethod/AdderSubtractorSyncMethod.iml" filepath="$PROJECT_DIR$/AdderSubtractorSyncMethod/AdderSubtractorSyncMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortMultiThreading/MergeSortMultiThreading.iml" filepath="$PROJECT_DIR$/MergeSortMultiThreading/MergeSortMultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsWithCallables/ThreadsWithCallables.iml" filepath="$PROJECT_DIR$/ThreadsWithCallables/ThreadsWithCallables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice java.iml" filepath="$PROJECT_DIR$/practice java.iml" />
+    </modules>
+  </component>
+</project>
